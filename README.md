@@ -36,6 +36,18 @@ pip install openai  # Only if using actual GPT API
    
 Tags:
 python ai-integration urban-planning livability-metrics gpt-api community-tool
+
+# File breakdown
+Here's a short explanation of each file/folder in this project:
+
+- **README.md**[You are here!] : Project documentation 
+- **Project 3:Neighbourhood Livability Scanner** : Main project folder containing the livability scanner implementation via. main.py
+- **Project 3a:Neighbourhood Livability Scanner**: Additional/alternative version of the scanner (not AI enabled)
+- **LICENSE** : File containing the full GNU General Public License v3.0 terms
+- **env.txt** : Contains environment configuration or setup instructions
+- **gitignore** : File listing file patterns Git should ignore 
+- **requirements.txt**: File listing PyPi packages required for the project
+
 ## Code in Place Certification  
 *Stanford CS106A Methodology | 2025*  
 
